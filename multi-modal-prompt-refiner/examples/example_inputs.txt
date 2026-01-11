@@ -1,0 +1,14 @@
+Example 1:
+"I want a simple task management app for my startup team"
+
+Example 2:
+"Build a food delivery app for my city with fast delivery"
+
+Example 3:
+"Need an app to track daily expenses"
+
+Example 4:
+"Create a basic app for employees to apply leave"
+
+Example 5:
+"Random motivational quote"
